@@ -40,7 +40,7 @@ const AboutSection = () => {
             {...motionSettings.slideInLeft}
           >
             <img
-              src="./public/nishan.jpg" 
+              src="/nishan.jpg" 
               alt="Profile of the developer"
               className="rounded-full mx-auto"
               width={300}
